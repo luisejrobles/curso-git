@@ -20,10 +20,10 @@ Las indicaciones son las siguientes:
 
 
 ## Checklist 
-- [ ] He abierto un [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-- [ ] He generado una rama con mis iniciales, ej.  `curso-git-lejr` 
-- [ ] He generado el archivo `mis-iniciales.md`
+- [ ] He generado una rama con mis iniciales, ej.  `curso-git-lejr`  
+- [ ] He generado el archivo `mis-iniciales.md` **dentro de esa rama**
 - [ ] He puesto en el archivo
-  - [ ] Iniciales
-  - [ ] Tecnologías o herramientas
-- [ ] He mandado el issue
+  - [ ] Mis iniciales 
+  - [ ] Tecnologías o herramientas que sé
+- [ ] He subido mis cambios a mi rama
+- [ ] Me han aprobado el merge request 🚀
