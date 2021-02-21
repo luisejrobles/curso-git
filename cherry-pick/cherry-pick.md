@@ -6,3 +6,7 @@ hecho por [@carlogilmar](https://twitter.com/carlogilmar) y [@luisejrobles](http
 ## Descripción
 
 Aplica los cambios introducidos por un commit existente hacia la rama actual.
+
+## Comando
+
+`git cherry-pick <sha-commit>`
